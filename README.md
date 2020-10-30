@@ -2,8 +2,8 @@
 theme for GNU Emacs made with autothemer 
 
 ![theme dashboard](/assets/dionysiac-theme-dashboard.png)
-Format: ![Alt Text](url)
+Format: ![dashboard](url)
 
 
 ![theme dashboard](/assets/dionysiac-theme-haskell.png)
-Format: ![Alt Text](url)
+Format: ![haskell](url)

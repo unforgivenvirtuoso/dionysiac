@@ -15,6 +15,7 @@
                        (dionysiac-purple      "violet")
                        (dionysiac-blue      "DeepSkyBlue")
                        (dionysiac-red      "Red")
+                       (dionysiac-hotpink  "HotPink1")
 
 
 
@@ -42,6 +43,7 @@
                         (doom-modeline-lsp-warning (:foreground dionysiac-red ))
                         (doom-modeline-repl-warning (:foreground dionysiac-red ))
                         (doom-modeline-warning (:foreground dionysiac-violet ))
+                        (doom-dashboard-footer-icon(:foreground dionysiac-hotpink ))
 
                         (epa-mark (:background dionysiac-red))
 

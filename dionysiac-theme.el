@@ -31,7 +31,7 @@
                         (region (:background dionysiac-midnightblack))
                         (font-lock-string-face (:foreground dionysiac-violet))
                         (font-lock-variable-name-face (:foreground dionysiac-maroon))
-                        (font-lock-function-name-face (:foreground dionysiac-hotpink))
+                        (font-lock-function-name-face (:foreground dionysiac-cyan))
                         (font-lock-type-face (:foreground dionysiac-purple))
                         (font-lock-comment-face (:foreground dionysiac-pink))
 
